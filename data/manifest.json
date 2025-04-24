@@ -8,20 +8,20 @@
                 {
                     "n_neighbors": 15,
                     "min_dist": 0.01,
-                    "layout": "src/data/layouts/umap-b7534ed0-1f56-11f0-9d5a-dee726bd6cbf.json",
-                    "jittered": "src/data/layouts/umap-jittered-b7534ed0-1f56-11f0-9d5a-dee726bd6cbf.json"
+                    "layout": "pix_plot_assets/data/layouts/umap-b7534ed0-1f56-11f0-9d5a-dee726bd6cbf.json",
+                    "jittered": "pix_plot_assets/data/layouts/umap-jittered-b7534ed0-1f56-11f0-9d5a-dee726bd6cbf.json"
                 }
             ]
         },
         "alphabetic": {
-            "layout": "src/data/layouts/grid-b7534ed0-1f56-11f0-9d5a-dee726bd6cbf.json"
+            "layout": "pix_plot_assets/data/layouts/grid-b7534ed0-1f56-11f0-9d5a-dee726bd6cbf.json"
         },
         "grid": {
             "layout": null
         },
         "categorical": {
-            "layout": "src/data/layouts/categorical-b7534ed0-1f56-11f0-9d5a-dee726bd6cbf.json",
-            "labels": "src/data/layouts/categorical-labels-b7534ed0-1f56-11f0-9d5a-dee726bd6cbf.json"
+            "layout": "pix_plot_assets/data/layouts/categorical-b7534ed0-1f56-11f0-9d5a-dee726bd6cbf.json",
+            "labels": "pix_plot_assets/data/layouts/categorical-labels-b7534ed0-1f56-11f0-9d5a-dee726bd6cbf.json"
         },
         "date": false,
         "geographic": null,
@@ -37,11 +37,11 @@
         "categorical": 0.014634146341463414,
         "geographic": 0.0006097560975609757
     },
-    "imagelist": "src/data/imagelists/imagelist-b7534ed0-1f56-11f0-9d5a-dee726bd6cbf.json",
-    "atlas_dir": "src/data/atlases/b7534ed0-1f56-11f0-9d5a-dee726bd6cbf",
+    "imagelist": "pix_plot_assets/data/imagelists/imagelist-b7534ed0-1f56-11f0-9d5a-dee726bd6cbf.json",
+    "atlas_dir": "pix_plot_assets/data/atlases/b7534ed0-1f56-11f0-9d5a-dee726bd6cbf",
     "metadata": true,
-    "default_hotspots": "src/data/hotspots/hotspot-b7534ed0-1f56-11f0-9d5a-dee726bd6cbf.json",
-    "custom_hotspots": "src/data/hotspots/hotspot-b7534ed0-1f56-11f0-9d5a-dee726bd6cbf.json",
+    "default_hotspots": "pix_plot_assets/data/hotspots/hotspot-b7534ed0-1f56-11f0-9d5a-dee726bd6cbf.json",
+    "custom_hotspots": "pix_plot_assets/data/hotspots/hotspot-b7534ed0-1f56-11f0-9d5a-dee726bd6cbf.json",
     "gzipped": false,
     "config": {
         "sizes": {
