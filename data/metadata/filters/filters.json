@@ -1,0 +1,13 @@
+[
+    {
+        "filter_name": "select",
+        "filter_values": [
+            "Cow",
+            "Sheep",
+            "Dog",
+            "Cat",
+            "Horse",
+            "Teddy"
+        ]
+    }
+]
